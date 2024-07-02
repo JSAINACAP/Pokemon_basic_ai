@@ -1,0 +1,1 @@
+Aplicación básica de alguno de los conceptos de AI de las 3 primeras clases de HUAWEI SFTF, concretamente Clúster, algoritmos y analisis de datos en entrenamiento no supervisado usando la típica base de datos de estadísticas de Pokémon. Tómese con pinzas, ya que solo pique código centrándome más que nada en la aplicación.
